@@ -81,7 +81,7 @@ $(document).ready(function(){
     }
     else if (correct < 4) {
         $("#timesUp").html("Haha you loser!");
-
+        
     }
 
     $("#correctAnswers").html(correct);
